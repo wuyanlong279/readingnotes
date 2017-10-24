@@ -1,7 +1,7 @@
 # mysql基础笔记
 
 1. [连接mysql](#连接mysql)
-2. [查询状态](#status)
+2. [查询mysql状态](#status)
 
 
 ## <span id="连接mysql">连接mysql<span>
