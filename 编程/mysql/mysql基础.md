@@ -1,7 +1,7 @@
 # mysql基础笔记
 
 1. [连接mysql](#连接mysql)
-2. [查询mysql状态](#status)
+2. [查询mysql状态](#查询mysql状态)
 3. [sql语言](#sql语言)
 
 ## <span id="连接mysql">连接mysql<span>
@@ -12,7 +12,7 @@
 `mysql -h127.0.0.1 -P3306 -uroot -p`
 
 
-## <span id="status">查询mysql状态<span>
+## <span id="查询mysql状态">查询mysql状态<span>
 * 查询数据库运行状态:`status;`
 * 查看当前连接:`show processlist;`
 * 查看socket文件所在目录:`show global variables like 'socket';`
@@ -58,5 +58,3 @@
 * TCL事务控制:控制事务进展
   - COMMIT提交事务
   - ROLLBACK回滚事务
-
-  
