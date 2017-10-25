@@ -36,7 +36,7 @@
    );
  ```
   - 修改数据表:
-   - 增加一个字段:```ALTER TABLE table_name ADD COLUMN aa int(10);```
+   - 增加一个字段:`ALTER TABLE table_name ADD COLUMN aa int(10);`
    - 修改一个字段:`ALTER TABLE table_name MODIFY COLUMN aa int(20);`
    - 删除一个字段:`ALTER TABLE table_name DROP COLUMN aa;`
   - 删除数据表:`DROP TABLE table_name;`
