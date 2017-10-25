@@ -16,8 +16,8 @@
 * 查询数据库运行状态:`status;`
 * 查看当前连接:`show processlist;`
 * 查看socket文件所在目录:`show global variables like 'socket';`
-* 查看数据库database:‘show databases;’
-* 查看databas中表:'show tables;'
+* 查看数据库database:`show databases;`
+* 查看databas中表:`show tables;`
 
 
 ## <span id="sql语言">sql语言<span>
@@ -26,13 +26,15 @@
  - 创建DATABASE:`CREATE DATABASE database_name;`
  - 使用DATABASE:`use database_name;`
  - 创建数据表:
- `CREATE TABLE table_name(
-   id int(10),  
-   name varchar(20),  
-   age int(10),  
-   #设置主键  
+ ```
+ CREATE TABLE table_name(
+   id int(10),
+   name varchar(20),
+   age int(10),
+   #设置主键
    PRIMARY KEY(id)
-   );`
+   );
+ ```
   - 修改数据表:
    - 增加一个字段:`ALTER TABLE table_name ADD COLUMN aa int(10);`
    - 修改一个字段:`ALTER TABLE table_name MODIFY COLUMN aa int(20);`
