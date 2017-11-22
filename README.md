@@ -3,4 +3,7 @@
 	* [mysql](https://github.com/wuyanlong279/readingnotes/tree/master/%E7%BC%96%E7%A8%8B/mysql)
 		* [mysql基础](https://github.com/wuyanlong279/readingnotes/blob/master/%E7%BC%96%E7%A8%8B/mysql/mysql%E5%9F%BA%E7%A1%80.md)
 		* [MySQL索引与查询优化](https://github.com/wuyanlong279/readingnotes/blob/master/%E7%BC%96%E7%A8%8B/mysql/mysql%E7%B4%A2%E5%BC%95%E4%B8%8E%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96.md)
-
+* [读书笔记](https://github.com/wuyanlong279/readingnotes/tree/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0)
+	* [方法类](https://github.com/wuyanlong279/readingnotes/tree/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%96%B9%E6%B3%95%E7%B1%BB)
+		* [如何高效阅读](https://github.com/wuyanlong279/readingnotes/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%96%B9%E6%B3%95%E7%B1%BB/%E9%AB%98%E6%95%88%E9%98%85%E8%AF%BB.md)
+	* [小说类](http://)
