@@ -6,4 +6,5 @@
 * [读书笔记](https://github.com/wuyanlong279/readingnotes/tree/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0)
 	* [方法类](https://github.com/wuyanlong279/readingnotes/tree/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%96%B9%E6%B3%95%E7%B1%BB)
 		* [如何高效阅读](https://github.com/wuyanlong279/readingnotes/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%96%B9%E6%B3%95%E7%B1%BB/%E9%AB%98%E6%95%88%E9%98%85%E8%AF%BB.md)
-	* [小说类](http://)
+	* [小说类](https://github.com/wuyanlong279/readingnotes/tree/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E5%B0%8F%E8%AF%B4%E7%B1%BB)
+		* [上海,不哭](https://github.com/wuyanlong279/readingnotes/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E4%B8%8A%E6%B5%B7%2C%E4%B8%8D%E5%93%AD.md)
